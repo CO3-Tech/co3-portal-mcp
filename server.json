@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.CO3-Tech/portal-mcp",
+  "description": "CO3 portal data for AI assistants: trackings, assets, ETA, cold chain, driver hours, CO₂.",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.co3.tech/portal-mcp"
+    }
+  ]
+}

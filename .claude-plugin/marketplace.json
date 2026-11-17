@@ -1,0 +1,16 @@
+{
+  "name": "co3-portal",
+  "owner": {
+    "name": "CO3",
+    "url": "https://co3.io"
+  },
+  "description": "Ask your AI assistant about your CO3 trackings, assets, ETAs, cold chain, driver hours and CO₂, with your CO3 portal account.",
+  "plugins": [
+    {
+      "name": "co3-portal",
+      "source": "./",
+      "description": "Ask your AI assistant about your CO3 trackings, assets, ETAs, cold chain, driver hours and CO₂, with your CO3 portal account.",
+      "version": "0.1.0"
+    }
+  ]
+}

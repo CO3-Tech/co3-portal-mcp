@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "co3-portal": {
+      "type": "http",
+      "url": "https://mcp.co3.tech/portal-mcp"
+    }
+  }
+}

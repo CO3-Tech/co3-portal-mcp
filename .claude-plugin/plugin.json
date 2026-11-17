@@ -1,0 +1,15 @@
+{
+  "name": "co3-portal",
+  "version": "0.1.0",
+  "description": "Ask your AI assistant about your CO3 trackings, assets, ETAs, cold chain, driver hours and CO₂, with your CO3 portal account.",
+  "author": {
+    "name": "CO3",
+    "url": "https://co3.io"
+  },
+  "homepage": "https://co3.io",
+  "license": "Apache-2.0",
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://co3.io/privacy-policy",
+  "termsOfServiceUrl": "https://co3.io/terms-and-conditions",
+  "documentationUrl": "https://github.com/CO3-Tech/co3-portal-mcp#readme"
+}

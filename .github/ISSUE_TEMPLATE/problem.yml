@@ -1,0 +1,50 @@
+name: Something is not working
+description: Installing, signing in, or an answer that does not match the CO3 portal.
+title: "[Problem] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This issue is public.** Do not include tracking references, licence plates, company names,
+        personal data or screenshots of your data. Send those to **support@co3.io** instead.
+  - type: dropdown
+    id: assistant
+    attributes:
+      label: AI assistant
+      options:
+        - Claude (claude.ai or Claude Desktop)
+        - Claude Code
+        - ChatGPT
+        - OpenAI Codex
+        - VS Code with GitHub Copilot
+        - GitHub Copilot CLI
+        - Cursor
+        - Gemini CLI
+        - Goose
+        - Mistral Le Chat
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where it goes wrong
+      options:
+        - Installing
+        - Signing in
+        - An answer
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what you got. Describe your question in general terms.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Plugin version
+      description: Shown at the bottom of the README, or in your assistant's plugin list.

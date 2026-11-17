@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "co3-portal": {
+      "type": "streamable-http",
+      "url": "https://mcp.co3.tech/portal-mcp"
+    }
+  }
+}
