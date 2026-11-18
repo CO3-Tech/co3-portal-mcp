@@ -41,7 +41,7 @@ together with the hours it covers.
 ## Output
 
 ```
-Trailer LEGSWB1 — 17 Nov, 06:00 to 18:00 (CET)
+Trailer REEFER1 — 17 Nov, 06:00 to 18:00 (CET)
 
 One excursion, zone 1:
    11:40 → 12:25, 45 min, worst 4.6 °C above the set point (+2.0 °C)

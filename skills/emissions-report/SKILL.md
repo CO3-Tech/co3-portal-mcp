@@ -44,7 +44,7 @@ their own factor, they can, and then it is their number.
 ## Output
 
 ```
-CO₂e — tracking P2026471713
+CO₂e — tracking ORDER-2024…
   1,234 kg CO₂e over 612 km
   Method: <method> · Scope: well-to-wheel · 78% primary data
 

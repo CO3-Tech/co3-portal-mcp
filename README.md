@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CO3-Tech/co3-portal-mcp/releases/latest"><img alt="Version" src="https://img.shields.io/badge/version-0.1.0-121A1B"></a>
+  <a href="https://github.com/CO3-Tech/co3-portal-mcp/releases/latest"><img alt="Version" src="https://img.shields.io/badge/version-1.0.9-121A1B"></a>
   <a href="LICENSE"><img alt="License: Apache-2.0" src="https://img.shields.io/badge/license-Apache--2.0-121A1B"></a>
   <a href="https://co3.io"><img alt="co3.io" src="https://img.shields.io/badge/co3.io-visit-121A1B"></a>
 </p>
@@ -206,5 +206,5 @@ Your assistant chooses the skill. You only ask the question.
 
 ---
 
-<sub>CO3 Portal 0.1.0 · © CO3 · Plugin files licensed under the [Apache License 2.0](LICENSE).
+<sub>CO3 Portal 1.0.9 · © CO3 · Plugin files licensed under the [Apache License 2.0](LICENSE).
 This repository is published automatically from CO3's release pipeline.</sub>

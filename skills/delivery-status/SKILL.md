@@ -13,7 +13,7 @@ Read `reference/co3-rules.md` first.
 
 ## Procedure
 
-**One tracking the user names** (a reference such as `ORDER-2024…` or `P2026471713`):
+**One tracking the user names** (a reference such as `ORDER-2024…`):
 
 1. `investigate_tracking`. It returns details, stops, the latest events, CO3's ETA and the
    assets' last positions in one call. Use it before calling the single tools.

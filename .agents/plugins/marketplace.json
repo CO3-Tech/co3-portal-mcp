@@ -10,7 +10,7 @@
       "name": "co3-portal",
       "source": "./",
       "description": "Ask your AI assistant about your CO3 trackings, assets, ETAs, cold chain, driver hours and CO₂, with your CO3 portal account.",
-      "version": "0.1.0"
+      "version": "1.0.9"
     }
   ]
 }

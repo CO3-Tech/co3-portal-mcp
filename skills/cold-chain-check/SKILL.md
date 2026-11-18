@@ -52,9 +52,9 @@ A live reading is not a grade, and a grade is not a live reading. Say which one 
 ```
 Reefers now — 3 of 41 more than 3 °C above their set point (CO3's default tolerance)
 
-LEGSWB1   +7.1 °C (set +2.0, diff +5.1)   on   read 4 min ago, moving
-LEGLAD2   −14.0 °C (set −18.0, diff +4.0) on   read 12 min ago, stopped
-LEGSWA1   +6.0 °C (set +2.0, diff +4.0)   on   read 2 h ago (old reading)
+REEFER1   +7.1 °C (set +2.0, diff +5.1)   on   read 4 min ago, moving
+REEFER2   −14.0 °C (set −18.0, diff +4.0) on   read 12 min ago, stopped
+REEFER3   +6.0 °C (set +2.0, diff +4.0)   on   read 2 h ago (old reading)
 
 38 others within 3 °C of their set point. 2 reefers off. 1 sent no reading.
 ```
